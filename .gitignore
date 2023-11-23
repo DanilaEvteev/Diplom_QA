@@ -1,9 +1,8 @@
+Thumbs.db*
+.DS_Store
 HELP.md
 .gradle
-.allure/
 build/
-data/
-gate-simulator/
 
 ### STS ###
 .apt_generated
@@ -44,3 +43,7 @@ out/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+
+
+.project
+.dbeaver
