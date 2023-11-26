@@ -56,4 +56,5 @@
 ## Документация:
 
 * [Задание](https://github.com/netology-code/qa-diploma)
-* [План]()
+* [План](https://github.com/DanilaEvteev/Diplom_QA/blob/master/documents/Plan.md)
+* [Итог](https://github.com/DanilaEvteev/Diplom_QA/blob/master/documents/Summary.md)
